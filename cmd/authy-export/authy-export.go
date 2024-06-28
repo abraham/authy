@@ -14,7 +14,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/alexzorin/authy"
+	"github.com/abraham/authy"
 	"golang.org/x/crypto/ssh/terminal"
 )
 

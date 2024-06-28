@@ -1,4 +1,4 @@
-module github.com/crimsonstrife/authy
+module github.com/abraham/authy
 
 go 1.12
 
