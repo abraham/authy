@@ -1,6 +1,5 @@
 # authy
 
-
 [![GoDoc](https://godoc.org/github.com/alexzorin/authy?status.svg)](https://godoc.org/github.com/alexzorin/authy)
 
 This is a Go library that allows you to access your [Authy](https://authy.com) TOTP tokens.
